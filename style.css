@@ -1,0 +1,47 @@
+.navbar-nav > li {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.navbar-nav > li {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.nav-link {
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
+}
+
+p { 
+  text-align: left;
+}
+.list-group {
+  text-decoration: underline;
+}
+
+.Options {
+  width: 220px;
+  float: left;
+  text-align: left;
+}
+
+.container {
+  margin-left: 220;
+  margin-bottom: auto;
+}
+
+.container .col p {
+  text-align: left;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+#carouselText {
+  text-align: center;
+}
